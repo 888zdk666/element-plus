@@ -3,7 +3,7 @@
     :data="data"
     show-checkbox
     node-key="id"
-    :default-expanded-keys="[2, 3]"
+    :default-expanded-keys="[2, 3,2]"
     :default-checked-keys="[5]"
     :props="defaultProps"
   />
